@@ -1,0 +1,26 @@
+name: product_admin_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.6.0   # Cập nhật lên phiên bản này
+  firebase_auth: ^5.3.1     # Phiên bản tương thích
+  cloud_firestore: ^5.4.4    # Phiên bản tương thích
+  firebase_storage: ^12.3.2   # Phiên bản tương thích
+  image_picker: ^1.1.2      # Phiên bản tương thích
+  cupertino_icons: ^1.0.2    # Phiên bản tương thích
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

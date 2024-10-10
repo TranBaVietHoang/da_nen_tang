@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027743220935",
+    "project_id": "product-admin-app-ad6b1",
+    "storage_bucket": "product-admin-app-ad6b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027743220935:android:683cdad6b9a1300d8caae2",
+        "android_client_info": {
+          "package_name": "com.example.product_admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJJ8RZd0EMfjBg8TF9H7WuaMN80PqwVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
